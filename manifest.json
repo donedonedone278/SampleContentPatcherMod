@@ -1,0 +1,16 @@
+{
+  "Name": "YourModNameHere",
+  "Author": "Your names here",
+  "Description": "Your description here",
+  "Version": "1.0.0",
+  "UniqueID": "YourName.YourModNameHere",
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  },
+  "Dependencies": [
+    {
+      "UniqueId": "sion9000.AnthroCharactersContinued",
+      "IsRequired": false
+    }
+  ]
+}
